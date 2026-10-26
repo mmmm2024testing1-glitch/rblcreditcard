@@ -1,30 +1,30 @@
 {
   "S_Admin_1": {
-    "api_key": "ZBqmVS6eHEnxMjaBwYF/mAro0yli00ya",
-    "api_token": "FqmlllMDjmgKXe1S1vDDzrdHFoF8gSPlFlYOnqSL26a5YBx/4d9NfFvVuUwHh2Rq",
+    "api_key": "ZBqmVS6eHEnxMjaBwYF\/mAro0yli00ya",
+    "api_token": "FqmlllMDjmgKXe1S1vDDzrdHFoF8gSPlFlYOnqSL26a5YBx\/4d9NfFvVuUwHh2Rq",
     "reg_date": "14-09-2026"
   },
   "S_Admin_2": {
     "api_key": "w0Y7Q+K1RzkXQYHvibVfwAro0yli00ya",
-    "api_token": "eFLwdlAyZG/75IVtR4DUo1/jT5iP16ZDgygEL+hOZPE6eaYZgZzhfeZEOSvfTSL5",
+    "api_token": "eFLwdlAyZG\/75IVtR4DUo1\/jT5iP16ZDgygEL+hOZPE6eaYZgZzhfeZEOSvfTSL5",
     "reg_date": "25-09-2026"
   },
   "Admin_1": {
     "api_key": "zNrKS41e4WKx4AkgxfzKGgro0yli00ya",
-    "api_token": "cnCMaMRe73Mnsrc/Nb8EAyFhX1JcV4Hgvq/IqnxlNZ5PFr9h4EH9ltAYlZt/zcO1",
+    "api_token": "cnCMaMRe73Mnsrc\/Nb8EAyFhX1JcV4Hgvq\/IqnxlNZ5PFr9h4EH9ltAYlZt\/zcO1",
     "reg_date": "07-09-2026"
   },
   "AXIS_Admin_1": {
-    "api_key": "lFJNc/SF5N7acbkF7vFZiwro0yli00ya",
+    "api_key": "lFJNc\/SF5N7acbkF7vFZiwro0yli00ya",
     "api_token": "RT6YU3pF05VrSotmRXijiJO9TDgPmfKEw3GAr8RgedpZpXdltQJ1Qv0scDzU0FtV",
     "reg_date": "13-10-2026"
   },
   "AXIS_Admin_2": {
-    "api_key": "lFJNc/SF5N7acbkF7vFZiwro0yli00ya",
+    "api_key": "lFJNc\/SF5N7acbkF7vFZiwro0yli00ya",
     "api_token": "RT6YU3pF05VrSotmRXijiJO9TDgPmfKEw3GAr8RgedpZpXdltQJ1Qv0scDzU0FtV",
     "reg_date": "13-10-2026"
   },
- "SBI_Admin_1": {
+  "SBI_Admin_1": {
     "api_key": "S576HFiIqSxwuAt2CbE+zgro0yli00ya",
     "api_token": "fS1Hkgx+KG50YOzS8YipBtb2w7GdP37xjbOnHLpHMLWyLnJbzVoprK+9sdL1LOYU",
     "reg_date": "11-10-2026"
@@ -46,17 +46,22 @@
   },
   "Indus_Admin_1": {
     "api_key": "rGhL8riblgdunBSGTXwX5Qro0yli00ya",
-    "api_token": "P9U+smlDkmqL3y9JRYlBq7N9/bSBL8VR50x7qOb/9rWHWjv+MhrtuAwGqTz8IDxA",
+    "api_token": "P9U+smlDkmqL3y9JRYlBq7N9\/bSBL8VR50x7qOb\/9rWHWjv+MhrtuAwGqTz8IDxA",
     "reg_date": "10-10-2026"
   },
   "Indus_Admin_2": {
     "api_key": "b7Mq0F7wiTBgwsxbsdBF2wro0yli00ya",
-    "api_token": "D+YrA+gyTKnTumtB3kwHznU1aO/+4b3or/RF+pGFyeVk15TtNv/Nsg6aDMFNw2CV",
+    "api_token": "D+YrA+gyTKnTumtB3kwHznU1aO\/+4b3or\/RF+pGFyeVk15TtNv\/Nsg6aDMFNw2CV",
     "reg_date": "16-09-2026"
   },
   "BOB_Admin_1": {
-    "api_key": "lFJNc/SF5N7acbkF7vFZiwro0yli00ya",
+    "api_key": "lFJNc\/SF5N7acbkF7vFZiwro0yli00ya",
     "api_token": "RT6YU3pF05VrSotmRXijiJO9TDgPmfKEw3GAr8RgedpZpXdltQJ1Qv0scDzU0FtV",
     "reg_date": "12-10-2026"
+  },
+  "BOB1793019528730": {
+    "api_key": "ka9dSFk9A90IKm6CbMGHQQro0yli00ya",
+    "api_token": "ITTpBtaVehU3PjAkqasNiUBxP5Obl+FxnPXTmH06U8IcGrC87U3aj7sloFBIOIFK",
+    "reg_date": "26-10-2026"
   }
 }
